@@ -1,0 +1,11 @@
+Recurring Task:
+Same issues reported by users
+Ticket responding
+Frequent issues occurred during synchronization of data from KYCMS system into CBS
+The problem I want to address:
+A central repository to issues and solutions from where users could identify their issues and their solution on their own
+The reader or user is
+Branch users
+I will begin by exploring:
+Creating a central repository of recurring issues and solutions and explore ways where users can search their issues using the application and find the solutions on their own.
+ 
